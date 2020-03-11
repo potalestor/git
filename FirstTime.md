@@ -25,10 +25,10 @@ clip < ~/.ssh/id_rsa.pub
 
 Your account -> Settings -> SSH and GPG keys -> New SSH key or Add SSH key -> paste
 
-## Testing 
+## Testing
 
 ```bash
- ssh -T git@github.com
+ssh -T git@github.com
  ```
 
 You've successfully authenticated, but GitHub does not provide shell access.
