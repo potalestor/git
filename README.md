@@ -1,3 +1,3 @@
 # git-snippets
 
-[First-Time Git Setup](../FirstTime.md)
+[First-Time Git Setup](./FirstTime.md)
